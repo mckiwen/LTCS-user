@@ -85,7 +85,7 @@ public class FrmPrincipal extends javax.swing.JFrame implements Serializable {
         mniAbout = new javax.swing.JMenuItem();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("LTCS URL Generator");
+        setTitle("LTCS User");
         setName("frmPrincipal"); // NOI18N
         addWindowListener(new java.awt.event.WindowAdapter() {
             public void windowClosing(java.awt.event.WindowEvent evt) {
